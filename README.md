@@ -1,6 +1,6 @@
 # ASTRAL 2010 MASM32 Crackme1
 
-#### Written in November 2000.
+#### Written in 2010.
 
 [Original package](https://defacto2.net/f/b42f8be)
 
